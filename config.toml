@@ -1,4 +1,4 @@
-baseURL = "www.anchorage.ps"
+baseURL = "https://www.anchorage.ps/"
 languageCode = "en-us"
 title = "Anchorage - Pharma Services"
 theme = "somrat"
